@@ -19,3 +19,6 @@ function calcularNumero()
     arita.innerHTML = "El área es " + area;
     
 }
+
+var pi = Math.PI;
+console.log(pi);
